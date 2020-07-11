@@ -1,6 +1,6 @@
 # Codeforces_solve
 
-Problem Solving Practice in CodeForce
+Problem Solving Practice in CodeForces
 
 ### Codeforces Round #655 (Div. 2)
 

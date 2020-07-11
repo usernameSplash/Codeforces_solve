@@ -1,4 +1,4 @@
-# Codeforce_solve
+# Codeforces_solve
 
 Problem Solving Practice in CodeForce
 

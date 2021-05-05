@@ -1,0 +1,7 @@
+codeforce.code-workspace
+*.out
+**/*.dSYM
+**/.DS_Store
+**/*.dYSM/
+**/main
+**/*.out

@@ -21,3 +21,4 @@ Problem Solving Practice in CodeForces
 -   URL : http://codeforces.com/contest/1520
 -   오랜만에 코드포스 문제를 풀어봤다.
 -   A, B는 해결했고 C, D는 문제는 이해했지만 효율적인 해답을 찾을 수 없었다.
+-   공식 튜토리얼 : http://codeforces.com/blog/entry/90342
